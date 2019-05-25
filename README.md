@@ -8,4 +8,4 @@ My goal for this project was to learn Keras and TensorFlow. I used the tutorials
 
 ### Link to the HTML version of the notebook:
   
-  (https://abfu.github.io/Malaria-Cell-Image-Dataset/Malaria%20Cell%20Images%20Dataset.html)
+  (https://abfu.github.io/malaria_cell_image_dataset/Malaria%20Cell%20Images%20Dataset.html)
