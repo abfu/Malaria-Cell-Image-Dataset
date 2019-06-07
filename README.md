@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abfu/classifying_cell_images/master)
 
 # Malaria-Cell-Image-Dataset
   
