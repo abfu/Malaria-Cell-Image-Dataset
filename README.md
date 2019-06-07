@@ -1,5 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abfu/classifying_cell_images/master)
 
+[Infected Cells](https://i.imgur.com/LnfqE2w.png)
 
 # Malaria-Cell-Image-Dataset
   
