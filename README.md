@@ -16,7 +16,7 @@ Using a convolutional neural network from Keras to classify cells by their prese
   
 My goal for this project was to learn the basic application of Keras and TensorFlow. I used the tutorials on the TensorFlow [website](https://www.tensorflow.org/tutorials) to build a CNN and was interested in the difference in performance on the GPU and CPU.
   
-    ![Infected Cells](https://i.imgur.com/LnfqE2w.png)
+  ![Infected Cells](https://i.imgur.com/LnfqE2w.png)
 
 ### Contents
 * Resizing of Images
